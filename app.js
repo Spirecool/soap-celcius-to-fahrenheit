@@ -27,3 +27,4 @@ function soap() {
     request.setRequestHeader('Content-Type', 'text/xml; charset=utf-8');
     request.send(request_body);
 }
+
